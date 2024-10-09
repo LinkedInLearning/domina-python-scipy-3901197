@@ -2,10 +2,9 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Nombre completo del curso][lil-thumbnail-url]
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
-
 
 DESCRIPCIÓN DEL CURSO
 
@@ -26,26 +25,40 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 3. Crea un ambiente virtual de Python:
    3.1. Ambiente virtual en Windows:
+
+      ```text
       pip install virtualenv
       virtualenv <nombre del ambiente virtual>
+      ```
 
    3.2. Activar el ambiente virtual de Python en Windows:
-      .\<nombre del ambiente virtual>\Scripts\activate
-      
-   3.3. Ambiente virtual en Mac:
-      python -m venv <nombre del ambiente virtual>
-      
-   3.4. Activar el ambiente virtual de Python en Mac:
-      source <nombre del ambiente virtual>/bin/activate
 
-5. Instalar las siguientes librerías de Python:
+   ```text
+      .\<nombre del ambiente virtual>\Scripts\activate
+      ```
+
+   3.3. Ambiente virtual en Mac:
+
+      ```text
+      python -m venv <nombre del ambiente virtual>
+      ```
+
+   3.4. Activar el ambiente virtual de Python en Mac:
+
+      ```text
+      source <nombre del ambiente virtual>/bin/activate
+      ```
+
+4. Instalar las siguientes librerías de Python:
    - numpy
    - matplotlib
    - scipy
-   
-   5.1. Instala las librerías con el comando:
-      pip install -r requirements.txt
 
+   4.1. Instala las librerías con el comando:
+
+      ```text
+      pip install -r requirements.txt
+      ```
 
 ### Docente
 
@@ -53,8 +66,6 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
 [lil-thumbnail-url]: https:
 
-[1]: # (End of ES-Instruction ###############################################################################################)
