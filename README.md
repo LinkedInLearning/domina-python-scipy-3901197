@@ -1,12 +1,12 @@
 # Domina Python: SciPy
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Python : SciPy`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url]
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Domina el uso de SciPy para resolver problemas matemáticos y científicos complejos con Python. Este curso te guía desde ejercicios básicos hasta aplicaciones avanzadas, explorando desde la creación y manipulación de matrices hasta el análisis de regresión y el procesamiento de imágenes multidimensionales. Aprenderás a calcular determinantes, realizar pruebas estadísticas, y utilizar técnicas como la Transformada Rápida de Fourier y la integración de Romberg. Ideal para quienes buscan profundizar en el análisis numérico y el procesamiento de datos utilizando herramientas potentes y versátiles como SciPy.
 
 ## Instrucciones
 
@@ -66,6 +66,6 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-python-scipy
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQEJUH223aKFEQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733236535445?e=2147483647&v=beta&t=HBvvs2w3WxIOPtU5-R6IVOcdSXFyY6Ja56-ZHzpaF78
 
